@@ -1,3 +1,3 @@
-# Taller-1-Desarrollo
+# Taller-2-Desarrollo
 
-https://juansesanchez.github.io/Taller-1-Desarrollo/#
+https://juansesanchez.github.io/Taller-2-Desarrollo/#
